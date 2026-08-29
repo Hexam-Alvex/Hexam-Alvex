@@ -311,35 +311,6 @@ POST-EXPLOIT
 
 </div>
 
----
-
-<div align="center">
-
-## 📂 `PROJECTS`
-
-```bash id="g1d3pr"
-$ cd ~/projects
-$ ls -la
-
-drwxr-xr-x  web-security-labs/
-drwxr-xr-x  api-security-labs/
-drwxr-xr-x  security-tools/
-drwxr-xr-x  pentesting-automation/
-drwxr-xr-x  red-team-labs/
-drwxr-xr-x  writeups/
-
-$ cat status.txt
-
-[+] Portfolio initialization...
-[+] Security projects loading...
-[+] Research modules loading...
-
-STATUS: IN DEVELOPMENT
-```
-
-</div>
-
----
 
 <div align="center">
 
@@ -349,7 +320,7 @@ STATUS: IN DEVELOPMENT
 ╔════════════════════════════════════════════════════╗
 ║                                                    ║
 ║  [✓] eJPT                                         ║
-║  [✓] CEH                                          ║
+║  [✓] CEHPC                                         ║
 ║  [✓] ISO/IEC 27001 Lead Auditor                   ║
 ║                                                    ║
 ║  [>] OSCP .................... PREPARING           ║
