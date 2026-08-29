@@ -1,24 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:000000,45:080000,75:300000,100:8B0000&text=HEXAM&fontColor=FF0000&fontSize=95&animation=fadeIn&stroke=FF0000&strokeWidth=2"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2300&pause=650&color=FF0000&center=true&vCenter=true&width=850&lines=ETHICAL+HACKER;OFFENSIVE+SECURITY;RED+TEAM+OPERATIONS;WEB+%26+API+PENTESTING;SECURITY+RESEARCH;SECURITY+AUTOMATION"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/●_ONLINE-000000?style=for-the-badge&labelColor=300000&color=8B0000"/>
-<img src="https://img.shields.io/badge/⚠_AUTHORIZED-000000?style=for-the-badge&labelColor=300000&color=8B0000"/>
-<img src="https://img.shields.io/badge/☠_OFFENSIVE_MODE-000000?style=for-the-badge&labelColor=300000&color=8B0000"/>
-
-<br><br>
-
 <pre>
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║       I DON'T BREAK SYSTEMS — I SHOW THEM THEIR REFLECTION       ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+██╗  ██╗███████╗██╗  ██╗ █████╗ ███╗   ███╗
+██║  ██║██╔════╝╚██╗██╔╝██╔══██╗████╗ ████║
+███████║█████╗   ╚███╔╝ ███████║██╔████╔██║
+██╔══██║██╔══╝   ██╔██╗ ██╔══██║██║╚██╔╝██║
+██║  ██║███████╗██╔╝ ██╗██║  ██║██║ ╚═╝ ██║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+
+[ O F F E N S I V E   S E C U R I T Y ]
 </pre>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=600&color=FF0000&center=true&vCenter=true&width=850&lines=ETHICAL+HACKER;OFFENSIVE+SECURITY;RED+TEAM+OPERATIONS;WEB+%26+API+PENTESTING;SECURITY+RESEARCH;SECURITY+AUTOMATION"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/%E2%97%8F%20ONLINE-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/%E2%9A%A0%20AUTHORIZED-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/%E2%98%A0%20OFFENSIVE-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+
+<br><br>
+
+<code> I DON'T BREAK SYSTEMS — I SHOW THEM THEIR REFLECTION </code>
 
 </div>
 
@@ -26,28 +29,17 @@
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1600&q=85" width="900"/>
-
-<br><br>
-
-# 🩸 `root@hexam:~# whoami`
-
-</div>
-
-<div align="center">
+<h2>🩸 <code>root@hexam:~# whoami</code></h2>
 
 <pre>
 ┌──(root㉿hexam)-[~/identity]
 └─$ whoami
 
-     ██╗  ██╗███████╗██╗  ██╗ █████╗ ███╗   ███╗
-     ██║  ██║██╔════╝╚██╗██╔╝██╔══██╗████╗ ████║
-     ███████║█████╗   ╚███╔╝ ███████║██╔████╔██║
-     ██╔══██║██╔══╝   ██╔██╗ ██╔══██║██║╚██╔╝██║
-     ██║  ██║███████╗██╔╝ ██╗██║  ██║██║ ╚═╝ ██║
-     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+████████████████████████████████████████████████████████
 
-──────────────────────────────────────────────────────────────────
+        H E X A M  //  E T H I C A L  H A C K E R
+
+████████████████████████████████████████████████████████
 
 I don't just run tools.
 I want to understand what happens behind them.
@@ -56,56 +48,29 @@ I explore applications, APIs and infrastructure from an
 attacker's perspective — looking for weaknesses, validating
 vulnerabilities and understanding how they can be secured.
 
-──────────────────────────────────────────────────────────────────
+        🔎 RECON
+             │
+             ▼
+        🧠 ANALYZE
+             │
+             ▼
+        💉 TEST
+             │
+             ▼
+        🔓 VALIDATE
+             │
+             ▼
+        🛡️ SECURE
 
-       🔎 RECON        →        🧠 ANALYZE
-                                  │
-                                  ▼
-       💉 TEST         →        🔓 VALIDATE
-                                  │
-                                  ▼
-                              🛡️ SECURE
-
-──────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
 
 "I DON'T BREAK SYSTEMS — I SHOW THEM THEIR REFLECTION"
 
-──────────────────────────────────────────────────────────────────
-</pre>
+────────────────────────────────────────────────────────────
 
-<br>
-
-<img src="https://img.shields.io/badge/ETHICAL_HACKER-000000?style=for-the-badge&color=8B0000"/>
-<img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-000000?style=for-the-badge&color=8B0000"/>
-<img src="https://img.shields.io/badge/RED_TEAM-000000?style=for-the-badge&color=8B0000"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🕶️ `root@hexam:~# cat about_me.txt`
-
-<br>
-
-<pre>
-╭──────────────────────────────────────────────────────────────────╮
-│                                                                  │
-│  🧑‍💻 CYBERSECURITY PROFESSIONAL                                │
-│                                                                  │
-│  🔴 Offensive Security                                           │
-│  🌐 Web & API Pentesting                                         │
-│  🎯 Red Team                                                    │
-│  🔎 Vulnerability Research                                      │
-│  🧪 Security Labs                                                │
-│  🐍 Security Automation                                          │
-│                                                                  │
-│  I enjoy understanding how systems work, identifying             │
-│  weaknesses, validating vulnerabilities and studying             │
-│  how they can be properly mitigated.                             │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
+STATUS :: ONLINE
+MODE   :: OFFENSIVE
+ACCESS :: AUTHORIZED
 </pre>
 
 </div>
@@ -114,120 +79,28 @@ vulnerabilities and understanding how they can be secured.
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1510511459019-5dda7724fd87?auto=format&fit=crop&w=1600&q=85" width="900"/>
-
-<br>
-
-# 🔴 `./attack_surface.sh`
+<h2>🕶️ <code>root@hexam:~# cat about_me.txt</code></h2>
 
 </div>
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🌐 WEB
-
 <pre>
-SQLi
-IDOR
-SSRF
-XSS
-UPLOAD
-AUTH
-</pre>
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔌 API
-
-<pre>
-JWT
-BOLA
-AUTH
-ACCESS
-RATE LIMIT
-ENUM
-</pre>
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌐 NETWORK
-
-<pre>
-RECON
-ENUM
-SERVICES
-TCP/IP
-TLS
-TRAFFIC
-</pre>
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎯 RED TEAM
-
-<pre>
-INITIAL ACCESS
-PRIVESC
-LATERAL MOVEMENT
-PERSISTENCE
-POST-EXPLOIT
-</pre>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-# ☠️ `root@hexam:~# ./kill_chain.sh`
-
-<br>
-
-<pre>
-                  🔎 RECON
-                     │
-                     ▼
-               🛰️ ENUMERATION
-                     │
-                     ▼
-                🧬 DISCOVERY
-                     │
-                     ▼
-               💉 EXPLOITATION
-                     │
-                     ▼
-               🔓 INITIAL ACCESS
-                     │
-                     ▼
-            ⬆️ PRIVILEGE ESCALATION
-                     │
-                     ▼
-             🕸️ POST-EXPLOITATION
-                     │
-                     ▼
-              📡 LATERAL MOVEMENT
-                     │
-                     ▼
-                🧪 VALIDATION
-                     │
-                     ▼
-                 📋 REPORTING
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  🧑‍💻 CYBERSECURITY PROFESSIONAL                             │
+│                                                              │
+│  🔴 OFFENSIVE SECURITY                                       │
+│  🌐 WEB & API PENTESTING                                     │
+│  🎯 RED TEAM                                                │
+│  🔎 VULNERABILITY RESEARCH                                  │
+│  🧪 SECURITY LABS                                            │
+│  🐍 SECURITY AUTOMATION                                     │
+│                                                              │
+│  Understanding the attack surface is the first step         │
+│  toward building stronger systems.                           │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 </pre>
 
 </div>
@@ -236,38 +109,27 @@ POST-EXPLOIT
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:300000&height=100&text=OFFENSIVE%20ARSENAL&fontColor=FF0000&fontSize=35&animation=fadeIn"/>
-
-</div>
-
-<div align="center">
+<h2>🔴 <code>root@hexam:~# ./attack_surface.sh</code></h2>
 
 <pre>
-┌──[ RECON ]───────────────────────────────────────────────────────┐
-
-  Nmap       •       Nuclei       •       Feroxbuster
-  Nikto      •       WPScan
-
-└──────────────────────────────────────────────────────────────────┘
-
-┌──[ EXPLOITATION ]────────────────────────────────────────────────┐
-
-  Burp Suite •       SQLMap       •       Metasploit
-  OWASP ZAP
-
-└──────────────────────────────────────────────────────────────────┘
-
-┌──[ ANALYSIS ]────────────────────────────────────────────────────┐
-
-  Wireshark  •       Nessus
-
-└──────────────────────────────────────────────────────────────────┘
-
-┌──[ DEFENSIVE SECURITY ]───────────────────────────────────────────┐
-
-  FortiWeb   •       FortiSIEM    •       WAF       •       EDR
-
-└──────────────────────────────────────────────────────────────────┘
+             ┌───────────────┐
+             │    TARGET     │
+             └───────┬───────┘
+                     │
+       ┌─────────────┼─────────────┐
+       │             │             │
+       ▼             ▼             ▼
+   ┌───────┐     ┌───────┐     ┌───────┐
+   │  WEB  │     │  API  │     │NETWORK│
+   └───┬───┘     └───┬───┘     └───┬───┘
+       │             │             │
+       ▼             ▼             ▼
+     SQLi           JWT           RECON
+     IDOR           BOLA          ENUM
+     SSRF           AUTH          SERVICES
+     XSS            ACCESS        TCP/IP
+     UPLOAD         RATE LIMIT    TLS
+     AUTH           ENUM          TRAFFIC
 </pre>
 
 </div>
@@ -276,49 +138,42 @@ POST-EXPLOIT
 
 <div align="center">
 
-# 🧬 `root@hexam:~# cat web_api_security`
+<h2>☠️ <code>root@hexam:~# ./kill_chain.sh</code></h2>
 
-<br>
+<pre>
+      ╔══════════════════════════════════╗
+      ║          ATTACK FLOW             ║
+      ╚══════════════════════════════════╝
 
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-### 🌐 WEB APPLICATIONS
-
-<br>
-
-🔴 SQL Injection
-🔴 IDOR / BOLA
-🔴 SSRF
-🔴 File Upload
-🔴 Authentication
-🔴 Authorization
-🔴 Security Headers
-🔴 Misconfiguration
-
-</td>
-
-<td width="50%" align="center">
-
-### 🔌 API SECURITY
-
-<br>
-
-🔴 JWT
-🔴 Bearer Authentication
-🔴 BOLA
-🔴 Access Control
-🔴 Rate Limiting
-🔴 API Enumeration
-🔴 Input Validation
-🔴 Session Security
-
-</td>
-
-</tr>
-</table>
+              🔎 RECON
+                 │
+                 ▼
+          🛰️ ENUMERATION
+                 │
+                 ▼
+           🧬 DISCOVERY
+                 │
+                 ▼
+         💉 EXPLOITATION
+                 │
+                 ▼
+         🔓 INITIAL ACCESS
+                 │
+                 ▼
+      ⬆️ PRIVILEGE ESCALATION
+                 │
+                 ▼
+       🕸️ POST-EXPLOITATION
+                 │
+                 ▼
+        📡 LATERAL MOVEMENT
+                 │
+                 ▼
+           🧪 VALIDATION
+                 │
+                 ▼
+           📋 REPORTING
+</pre>
 
 </div>
 
@@ -326,21 +181,34 @@ POST-EXPLOIT
 
 <div align="center">
 
-# 🐧 `root@hexam:~# uname -a`
-
-<br>
+<h2>⚔️ <code>root@hexam:~# cat arsenal.txt</code></h2>
 
 <pre>
 ┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  💀 KALI LINUX                                               │
-│                                                              │
-│  ☠️ BLACKARCH                                                │
-│                                                              │
-│  🐧 UBUNTU SERVER                                            │
-│                                                              │
-│  📦 DOCKER                                                   │
-│                                                              │
+
+  🔎 RECON
+  ├── Nmap
+  ├── Nuclei
+  ├── Feroxbuster
+  ├── Nikto
+  └── WPScan
+
+  💉 EXPLOITATION
+  ├── Burp Suite
+  ├── SQLMap
+  ├── Metasploit
+  └── OWASP ZAP
+
+  🕵️ ANALYSIS
+  ├── Wireshark
+  └── Nessus
+
+  🛡️ DEFENSIVE SECURITY
+  ├── FortiWeb
+  ├── FortiSIEM
+  ├── WAF
+  └── EDR
+
 └──────────────────────────────────────────────────────────────┘
 </pre>
 
@@ -350,9 +218,74 @@ POST-EXPLOIT
 
 <div align="center">
 
-# 🐍 `root@hexam:~# ls ~/development`
+<h2>🧬 <code>root@hexam:~# cat web_api_security</code></h2>
 
-<br>
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<h3>🌐 WEB APPLICATIONS</h3>
+
+<pre>
+🔴 SQL Injection
+🔴 IDOR / BOLA
+🔴 SSRF
+🔴 File Upload
+🔴 Authentication
+🔴 Authorization
+🔴 Security Headers
+🔴 Misconfiguration
+</pre>
+
+</td>
+
+<td align="center" width="50%">
+
+<h3>🔌 API SECURITY</h3>
+
+<pre>
+🔴 JWT
+🔴 Bearer Authentication
+🔴 BOLA
+🔴 Access Control
+🔴 Rate Limiting
+🔴 API Enumeration
+🔴 Input Validation
+🔴 Session Security
+</pre>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>🐧 <code>root@hexam:~# uname -a</code></h2>
+
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+
+  💀 KALI LINUX
+  ☠️ BLACKARCH
+  🐧 UBUNTU SERVER
+  📦 DOCKER
+
+└──────────────────────────────────────────────────────────────┘
+</pre>
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>🐍 <code>root@hexam:~# ls ~/development</code></h2>
 
 <img src="https://skillicons.dev/icons?i=python,bash,docker,git,linux,flask"/>
 
@@ -371,31 +304,19 @@ POST-EXPLOIT
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1600&q=85" width="900"/>
-
-<br>
-
-# 🧪 `root@hexam:~# ls ~/labs`
-
-</div>
-
-<div align="center">
+<h2>🧪 <code>root@hexam:~# ls ~/labs</code></h2>
 
 <pre>
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  [01] 🔴 Web Security Labs                                   │
-│  [02] 🔌 API Security Labs                                   │
-│  [03] 🔐 Authentication Labs                                 │
-│  [04] 💉 Injection Testing                                   │
-│  [05] 🔓 Access Control                                      │
-│  [06] 📂 File Upload Security                                │
-│  [07] 🌐 SSRF Research                                       │
-│  [08] 🪪 JWT Security                                        │
-│  [09] 🛡️ WAF Testing                                        │
-│  [10] 🐍 Security Automation                                 │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+[01] 🔴 Web Security Labs
+[02] 🔌 API Security Labs
+[03] 🔐 Authentication Labs
+[04] 💉 Injection Testing
+[05] 🔓 Access Control
+[06] 📂 File Upload Security
+[07] 🌐 SSRF Research
+[08] 🪪 JWT Security
+[09] 🛡️ WAF Testing
+[10] 🐍 Security Automation
 </pre>
 
 </div>
@@ -404,20 +325,14 @@ POST-EXPLOIT
 
 <div align="center">
 
-# 🏆 `root@hexam:~# cat certifications.txt`
-
-<br>
+<h2>🏆 <code>root@hexam:~# cat certifications.txt</code></h2>
 
 <pre>
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              [✓] eJPT                                       ║
-║              [✓] CEHPC                                      ║
-║              [✓] ISO/IEC 27001 Lead Auditor                 ║
-║                                                              ║
-║              [>] OSCP ................ PREPARING             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+        [✓] eJPT
+        [✓] CEHPC
+        [✓] ISO/IEC 27001 Lead Auditor
+
+        [>] OSCP ................ PREPARING
 </pre>
 
 </div>
@@ -426,9 +341,7 @@ POST-EXPLOIT
 
 <div align="center">
 
-# 🎯 `root@hexam:~# ./current_objectives.sh`
-
-<br>
+<h2>🎯 <code>root@hexam:~# ./current_objectives.sh</code></h2>
 
 <pre>
 TARGETS
@@ -446,39 +359,40 @@ TARGETS
 
 <div align="center">
 
-# 🧠 `root@hexam:~# cat mindset.txt`
-
-<br>
+<h2>🧠 <code>root@hexam:~# cat mindset.txt</code></h2>
 
 <pre>
-          🔎 RECON
-             │
-             ▼
-       🧠 UNDERSTAND
-             │
-             ▼
-          🧪 TEST
-             │
-             ▼
-         💉 BREAK
-             │
-             ▼
-       🔓 VALIDATE
-             │
-             ▼
-       📋 DOCUMENT
-             │
-             ▼
-         🛡️ SECURE
+              ┌───────────┐
+              │   RECON   │
+              └─────┬─────┘
+                    ▼
+              ┌───────────┐
+              │ UNDERSTAND│
+              └─────┬─────┘
+                    ▼
+              ┌───────────┐
+              │   TEST    │
+              └─────┬─────┘
+                    ▼
+              ┌───────────┐
+              │   BREAK   │
+              └─────┬─────┘
+                    ▼
+              ┌───────────┐
+              │ VALIDATE  │
+              └─────┬─────┘
+                    ▼
+              ┌───────────┐
+              │ DOCUMENT  │
+              └─────┬─────┘
+                    ▼
+              ┌───────────┐
+              │   SECURE  │
+              └───────────┘
+
+        THINK LIKE AN ATTACKER.
+        BUILD LIKE A DEFENDER.
 </pre>
-
-<br>
-
-<h3>
-
-<code>Think like an attacker. Build like a defender.</code>
-
-</h3>
 
 </div>
 
@@ -486,9 +400,7 @@ TARGETS
 
 <div align="center">
 
-# 📊 `root@hexam:~# system_metrics`
-
-<br>
+<h2>📊 <code>root@hexam:~# system_metrics</code></h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hexam-Alvex&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF"/>
 
@@ -502,9 +414,7 @@ TARGETS
 
 <div align="center">
 
-# 🐍 `root@hexam:~# contribution_matrix`
-
-<br>
+<h2>🐍 <code>root@hexam:~# contribution_matrix</code></h2>
 
 <img src="https://raw.githubusercontent.com/Hexam-Alvex/Hexam-Alvex/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -514,27 +424,16 @@ TARGETS
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=130&text=RESEARCH%20%E2%80%A2%20ATTACK%20%E2%80%A2%20UNDERSTAND%20%E2%80%A2%20SECURE&fontColor=FF0000&fontSize=25&animation=fadeIn"/>
-
-<br><br>
-
 <pre>
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│              I DON'T BREAK SYSTEMS —                         │
-│              I SHOW THEM THEIR REFLECTION                    │
-│                                                              │
-│                         root@hexam                           │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║       I DON'T BREAK SYSTEMS — I SHOW THEM THEIR REFLECTION       ║
+║                                                                  ║
+║              RESEARCH • ATTACK • UNDERSTAND • SECURE             ║
+║                                                                  ║
+║                       root@hexam:~$ exit                         ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 </pre>
-
-<br>
-
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:300000,100:000000&height=160&section=footer"/>
 
 </div>
