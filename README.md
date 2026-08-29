@@ -269,7 +269,6 @@ POST-EXPLOIT
 │  💀 Kali Linux        ██████████████████████████████        │
 │  ☠️ BlackArch         ████████████████████████████░         │
 │  🐧 Ubuntu Server     ███████████████████████████░░         │
-│  📦 Docker             █████████████████████████████         │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -282,100 +281,12 @@ POST-EXPLOIT
 
 ## 🐍 `DEVELOPMENT`
 
-<img src="https://skillicons.dev/icons?i=python,bash,docker,git,flask,linux"/>
+<img src="https://skillicons.dev/icons?i=python,bash,docker,git,linux"/>
 
 <br><br>
 
-```text id="z7v2kc"
-Python
-   │
-   ├── Security Automation
-   ├── Tool Development
-   ├── API Interaction
-   └── Custom Security Scripts
-
-Docker
-   │
-   ├── Security Labs
-   ├── Isolated Environments
-   └── Reproducible Testing
-```
 
 </div>
-
----
-
-<div align="center">
-
-## ☁️ `CLOUD & INFRASTRUCTURE`
-
-<table>
-<tr>
-<td align="center">
-
-### AWS
-
-☁️ EC2
-🪣 S3
-🗄️ RDS
-🔐 IAM
-
-</td>
-
-<td align="center">
-
-### WEB
-
-🌐 Nginx
-🌐 Apache
-🔒 SSL/TLS
-📡 HTTP
-
-</td>
-
-<td align="center">
-
-### DEVOPS
-
-🐳 Docker
-🔧 Git
-🏗️ Terraform
-⚙️ CI/CD
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🛡️ `BLUE TEAM MODE`
-
-```text id="1e3v0k"
-$ ./defense.sh
-
-[+] WAF
-[+] SIEM
-[+] EDR
-[+] Security Monitoring
-[+] Threat Analysis
-[+] Vulnerability Management
-[+] Security Hardening
-
-────────────────────────────────────────────
-
-RED TEAM  ───────────────►  BLUE TEAM
-   ATTACK                         DETECT
-     │                              │
-     └────────── LEARN ─────────────┘
-```
-
-</div>
-
----
 
 <div align="center">
 
