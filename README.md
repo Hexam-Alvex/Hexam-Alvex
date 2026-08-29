@@ -58,29 +58,6 @@ how those weaknesses can be properly secured.
 ────────────────────────────────────────────────────────
 </pre>
 
-</div>
-<div align="center">
-
-```text id="m7v1fz"
-$ cat /etc/hexam/profile
-
-[+] Offensive Security
-[+] Web Application Security
-[+] API Security
-[+] Vulnerability Assessment
-[+] Red Team Operations
-[+] Security Research
-[+] Security Automation
-
-$ echo "Breaking systems to understand them."
-
-> Breaking systems to understand them.
-> Securing them to make them stronger.
-```
-
-</div>
-
----
 
 <div align="center">
 
