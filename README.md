@@ -27,20 +27,49 @@
 
 <div align="center">
 
-🩸 root@hexam:~# whoami
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│  I am an Ethical Hacker focused on Offensive Security,           │
-│  Web & API Pentesting and Red Team operations.                   │
-│                                                                  │
-│  I enjoy breaking down how applications, APIs and                │
-│  infrastructure work, finding the weaknesses hidden within       │
-│  them, validating their real-world impact and understanding      │
-│  how they can be properly secured.                               │
-└──────────────────────────────────────────────────────────────────┘
+<h2>🕶️ WHOAMI</h2>
+
+<pre>
+┌──(root㉿hexam)-[~/identity]
+└─$ whoami
+
+     ██╗  ██╗███████╗██╗  ██╗ █████╗ ███╗   ███╗
+     ██║  ██║██╔════╝╚██╗██╔╝██╔══██╗████╗ ████║
+     ███████║█████╗   ╚███╔╝ ███████║██╔████╔██║
+     ██╔══██║██╔══╝   ██╔██╗ ██╔══██║██║╚██╔╝██║
+     ██║  ██║███████╗██╔╝ ██╗██║  ██║██║ ╚═╝ ██║
+     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+
+[+] Identity confirmed
+[+] Ethical Hacker
+[+] Offensive Security
+[+] Web & API Pentesting
+[+] Red Team
+[+] Security Research
+
+────────────────────────────────────────────────────────
+
+"I don't just run tools.
+ I want to understand what happens behind them."
+
+I study how applications, APIs and infrastructure behave,
+search for weaknesses, validate vulnerabilities and learn
+how those weaknesses can be properly secured.
+
+────────────────────────────────────────────────────────
+
+        🔎 RECON  →  🧠 ANALYZE  →  💉 TEST
+                         ↓
+        🛡️ SECURE  ←  🔓 VALIDATE
+
+────────────────────────────────────────────────────────
+
+STATUS :: ONLINE
+MODE   :: OFFENSIVE
+ACCESS :: AUTHORIZED
+</pre>
 
 </div>
-
 <div align="center">
 
 ```text id="m7v1fz"
