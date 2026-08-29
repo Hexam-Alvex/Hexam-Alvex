@@ -1,53 +1,98 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,50:170000,100:8B0000&text=HEXAM&fontColor=FF0000&fontSize=90&animation=fadeIn&stroke=FF0000&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:000000,45:080000,75:300000,100:8B0000&text=HEXAM&fontColor=FF0000&fontSize=95&animation=fadeIn&stroke=FF0000&strokeWidth=2"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=800&lines=ETHICAL+HACKER;OFFENSIVE+SECURITY;RED+TEAM+OPERATIONS;WEB+%26+API+PENTESTING;SECURITY+RESEARCH;SECURITY+AUTOMATION"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2300&pause=650&color=FF0000&center=true&vCenter=true&width=850&lines=ETHICAL+HACKER;OFFENSIVE+SECURITY;RED+TEAM+OPERATIONS;WEB+%26+API+PENTESTING;SECURITY+RESEARCH;SECURITY+AUTOMATION"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-8B0000?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/ACCESS-AUTHORIZED-8B0000?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/MODE-OFFENSIVE-8B0000?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/●_ONLINE-000000?style=for-the-badge&labelColor=300000&color=8B0000"/>
+<img src="https://img.shields.io/badge/⚠_AUTHORIZED-000000?style=for-the-badge&labelColor=300000&color=8B0000"/>
+<img src="https://img.shields.io/badge/☠_OFFENSIVE_MODE-000000?style=for-the-badge&labelColor=300000&color=8B0000"/>
+
+<br><br>
+
+<pre>
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║       I DON'T BREAK SYSTEMS — I SHOW THEM THEIR REFLECTION       ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
 
 </div>
-
-<br>
-
 
 ---
 
 <div align="center">
 
-<h2>🩸 <code>root@hexam:~# whoami</code></h2>
-
-<br>
-
-<img src="https://images.unsplash.com/photo-1510511459019-5dda7724fd87?auto=format&fit=crop&w=1400&q=80" width="850"/>
+<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1600&q=85" width="900"/>
 
 <br><br>
 
-<pre> ┌──(root㉿hexam)-[~/identity] └─$ whoami HEXAM ETHICAL HACKER // OFFENSIVE SECURITY ──────────────────────────────────────────────────────────────── I don't just run tools. I want to understand what happens behind them. I explore applications, APIs and infrastructure from an attacker's perspective — looking for weaknesses, validating their impact and understanding how they can be secured. ──────────────────────────────────────────────────────────────── 🔎 RECON 🧠 ANALYZE 💉 TEST \ │ / \ │ / ▼ ▼ ▼ 🔓 VALIDATE │ ▼ 🛡️ SECURE ──────────────────────────────────────────────────────────────── "Breaking systems to understand them. Securing them to make them stronger." ──────────────────────────────────────────────────────────────── STATUS :: ONLINE MODE :: OFFENSIVE ACCESS :: AUTHORIZED </pre>
+# 🩸 `root@hexam:~# whoami`
+
+</div>
+
+<div align="center">
+
+<pre>
+┌──(root㉿hexam)-[~/identity]
+└─$ whoami
+
+     ██╗  ██╗███████╗██╗  ██╗ █████╗ ███╗   ███╗
+     ██║  ██║██╔════╝╚██╗██╔╝██╔══██╗████╗ ████║
+     ███████║█████╗   ╚███╔╝ ███████║██╔████╔██║
+     ██╔══██║██╔══╝   ██╔██╗ ██╔══██║██║╚██╔╝██║
+     ██║  ██║███████╗██╔╝ ██╗██║  ██║██║ ╚═╝ ██║
+     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+
+──────────────────────────────────────────────────────────────────
+
+I don't just run tools.
+I want to understand what happens behind them.
+
+I explore applications, APIs and infrastructure from an
+attacker's perspective — looking for weaknesses, validating
+vulnerabilities and understanding how they can be secured.
+
+──────────────────────────────────────────────────────────────────
+
+       🔎 RECON        →        🧠 ANALYZE
+                                  │
+                                  ▼
+       💉 TEST         →        🔓 VALIDATE
+                                  │
+                                  ▼
+                              🛡️ SECURE
+
+──────────────────────────────────────────────────────────────────
+
+"I DON'T BREAK SYSTEMS — I SHOW THEM THEIR REFLECTION"
+
+──────────────────────────────────────────────────────────────────
+</pre>
 
 <br>
 
-<img src="https://img.shields.io/badge/ETHICAL_HACKER-000000?style=for-the-badge&logo=hackthebox&logoColor=9f0000"/> <img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-000000?style=for-the-badge&logo=kalilinux&logoColor=9f0000"/> <img src="https://img.shields.io/badge/RED_TEAM-000000?style=for-the-badge&logo=target&logoColor=9f0000"/>
-
-</div>
-<div align="center">
-
-## 🧠 `./about_me.sh`
+<img src="https://img.shields.io/badge/ETHICAL_HACKER-000000?style=for-the-badge&color=8B0000"/>
+<img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-000000?style=for-the-badge&color=8B0000"/>
+<img src="https://img.shields.io/badge/RED_TEAM-000000?style=for-the-badge&color=8B0000"/>
 
 </div>
 
+---
+
 <div align="center">
 
-```text id="w8jz3p"
-┌──────────────────────────────────────────────────────────────────┐
+# 🕶️ `root@hexam:~# cat about_me.txt`
+
+<br>
+
+<pre>
+╭──────────────────────────────────────────────────────────────────╮
 │                                                                  │
-│  🧑‍💻 Cybersecurity Professional                                 │
+│  🧑‍💻 CYBERSECURITY PROFESSIONAL                                │
 │                                                                  │
 │  🔴 Offensive Security                                           │
 │  🌐 Web & API Pentesting                                         │
@@ -60,8 +105,8 @@
 │  weaknesses, validating vulnerabilities and studying             │
 │  how they can be properly mitigated.                             │
 │                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
+╰──────────────────────────────────────────────────────────────────╯
+</pre>
 
 </div>
 
@@ -69,7 +114,11 @@
 
 <div align="center">
 
-## 🔴 `ATTACK VECTOR`
+<img src="https://images.unsplash.com/photo-1510511459019-5dda7724fd87?auto=format&fit=crop&w=1600&q=85" width="900"/>
+
+<br>
+
+# 🔴 `./attack_surface.sh`
 
 </div>
 
@@ -77,18 +126,19 @@
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 🌐 WEB
 
-```text
+<pre>
 SQLi
 IDOR
 SSRF
 XSS
 UPLOAD
 AUTH
-```
+</pre>
 
 </td>
 
@@ -96,14 +146,14 @@ AUTH
 
 ### 🔌 API
 
-```text
+<pre>
 JWT
 BOLA
 AUTH
 ACCESS
 RATE LIMIT
 ENUM
-```
+</pre>
 
 </td>
 
@@ -111,14 +161,14 @@ ENUM
 
 ### 🌐 NETWORK
 
-```text
+<pre>
 RECON
 ENUM
 SERVICES
 TCP/IP
 TLS
 TRAFFIC
-```
+</pre>
 
 </td>
 
@@ -126,15 +176,16 @@ TRAFFIC
 
 ### 🎯 RED TEAM
 
-```text
+<pre>
 INITIAL ACCESS
 PRIVESC
 LATERAL MOVEMENT
 PERSISTENCE
 POST-EXPLOIT
-```
+</pre>
 
 </td>
+
 </tr>
 </table>
 
@@ -144,42 +195,40 @@ POST-EXPLOIT
 
 <div align="center">
 
-## ☠️ `KILL CHAIN`
+# ☠️ `root@hexam:~# ./kill_chain.sh`
 
-</div>
+<br>
 
-<div align="center">
-
-```text id="7b0kqs"
-      🔎 RECON
-         │
-         ▼
-      🛰️ ENUMERATION
-         │
-         ▼
-      🧬 DISCOVERY
-         │
-         ▼
-      💉 EXPLOITATION
-         │
-         ▼
-      🔓 INITIAL ACCESS
-         │
-         ▼
-      ⬆️ PRIVILEGE ESCALATION
-         │
-         ▼
-      🕸️ POST-EXPLOITATION
-         │
-         ▼
-      📡 LATERAL MOVEMENT
-         │
-         ▼
-      🧪 VALIDATION
-         │
-         ▼
-      📋 REPORTING
-```
+<pre>
+                  🔎 RECON
+                     │
+                     ▼
+               🛰️ ENUMERATION
+                     │
+                     ▼
+                🧬 DISCOVERY
+                     │
+                     ▼
+               💉 EXPLOITATION
+                     │
+                     ▼
+               🔓 INITIAL ACCESS
+                     │
+                     ▼
+            ⬆️ PRIVILEGE ESCALATION
+                     │
+                     ▼
+             🕸️ POST-EXPLOITATION
+                     │
+                     ▼
+              📡 LATERAL MOVEMENT
+                     │
+                     ▼
+                🧪 VALIDATION
+                     │
+                     ▼
+                 📋 REPORTING
+</pre>
 
 </div>
 
@@ -187,23 +236,58 @@ POST-EXPLOIT
 
 <div align="center">
 
-## ⚔️ `OFFENSIVE ARSENAL`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:300000&height=100&text=OFFENSIVE%20ARSENAL&fontColor=FF0000&fontSize=35&animation=fadeIn"/>
 
 </div>
-
 
 <div align="center">
 
-## 🧬 `WEB & API SECURITY`
+<pre>
+┌──[ RECON ]───────────────────────────────────────────────────────┐
+
+  Nmap       •       Nuclei       •       Feroxbuster
+  Nikto      •       WPScan
+
+└──────────────────────────────────────────────────────────────────┘
+
+┌──[ EXPLOITATION ]────────────────────────────────────────────────┐
+
+  Burp Suite •       SQLMap       •       Metasploit
+  OWASP ZAP
+
+└──────────────────────────────────────────────────────────────────┘
+
+┌──[ ANALYSIS ]────────────────────────────────────────────────────┐
+
+  Wireshark  •       Nessus
+
+└──────────────────────────────────────────────────────────────────┘
+
+┌──[ DEFENSIVE SECURITY ]───────────────────────────────────────────┐
+
+  FortiWeb   •       FortiSIEM    •       WAF       •       EDR
+
+└──────────────────────────────────────────────────────────────────┘
+</pre>
 
 </div>
 
-<table align="center">
+---
+
+<div align="center">
+
+# 🧬 `root@hexam:~# cat web_api_security`
+
+<br>
+
+<table>
 <tr>
 
 <td width="50%" align="center">
 
 ### 🌐 WEB APPLICATIONS
+
+<br>
 
 🔴 SQL Injection
 🔴 IDOR / BOLA
@@ -220,6 +304,8 @@ POST-EXPLOIT
 
 ### 🔌 API SECURITY
 
+<br>
+
 🔴 JWT
 🔴 Bearer Authentication
 🔴 BOLA
@@ -234,21 +320,29 @@ POST-EXPLOIT
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-## 🐧 `OPERATING ENVIRONMENT`
+# 🐧 `root@hexam:~# uname -a`
 
-```text id="l8zq4a"
+<br>
+
+<pre>
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│  💀 Kali Linux        ██████████████████████████████        │
-│  ☠️ BlackArch         ████████████████████████████░         │
-│  🐧 Ubuntu Server     ███████████████████████████░░         │
+│  💀 KALI LINUX                                               │
+│                                                              │
+│  ☠️ BLACKARCH                                                │
+│                                                              │
+│  🐧 UBUNTU SERVER                                            │
+│                                                              │
+│  📦 DOCKER                                                   │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
-```
+</pre>
 
 </div>
 
@@ -256,20 +350,38 @@ POST-EXPLOIT
 
 <div align="center">
 
-## 🐍 `DEVELOPMENT`
+# 🐍 `root@hexam:~# ls ~/development`
 
-<img src="https://skillicons.dev/icons?i=python,bash,docker,git,linux"/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,bash,docker,git,linux,flask"/>
 
 <br><br>
 
+<pre>
+/security-automation
+/security-tools
+/labs
+/scripts
+</pre>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1600&q=85" width="900"/>
+
+<br>
+
+# 🧪 `root@hexam:~# ls ~/labs`
 
 </div>
 
 <div align="center">
 
-## 🧪 `LABS & RESEARCH`
-
-```text id="q1e7mx"
+<pre>
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │  [01] 🔴 Web Security Labs                                   │
@@ -284,26 +396,7 @@ POST-EXPLOIT
 │  [10] 🐍 Security Automation                                 │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-
-<div align="center">
-
-## 🏆 `CERTIFICATIONS`
-
-```text id="p2q6zm"
-╔════════════════════════════════════════════════════╗
-║                                                    ║
-║  [✓] eJPT                                         ║
-║  [✓] CEHPC                                         ║
-║  [✓] ISO/IEC 27001 Lead Auditor                   ║
-║                                                    ║
-║  [>] OSCP .................... PREPARING           ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
-```
+</pre>
 
 </div>
 
@@ -311,17 +404,41 @@ POST-EXPLOIT
 
 <div align="center">
 
-## 🎯 `CURRENT OBJECTIVES`
+# 🏆 `root@hexam:~# cat certifications.txt`
 
-```text id="w2c7ka"
-TARGETS:
+<br>
+
+<pre>
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║              [✓] eJPT                                       ║
+║              [✓] CEHPC                                      ║
+║              [✓] ISO/IEC 27001 Lead Auditor                 ║
+║                                                              ║
+║              [>] OSCP ................ PREPARING             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+</pre>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎯 `root@hexam:~# ./current_objectives.sh`
+
+<br>
+
+<pre>
+TARGETS
 
 [██████████████████████░░░░░░░░] Advanced Red Team
 [███████████████████░░░░░░░░░░░] Active Directory
 [█████████████████░░░░░░░░░░░░░] Privilege Escalation
 [██████████████░░░░░░░░░░░░░░░░] Exploit Development
 [████████████░░░░░░░░░░░░░░░░░░] OSCP
-```
+</pre>
 
 </div>
 
@@ -329,25 +446,39 @@ TARGETS:
 
 <div align="center">
 
-## 🧠 `MINDSET`
+# 🧠 `root@hexam:~# cat mindset.txt`
 
-```text id="a5z0qf"
-RECON
-  ↓
-UNDERSTAND
-  ↓
-TEST
-  ↓
-BREAK
-  ↓
-VALIDATE
-  ↓
-DOCUMENT
-  ↓
-SECURE
-```
+<br>
 
-### `Think like an attacker. Build like a defender.`
+<pre>
+          🔎 RECON
+             │
+             ▼
+       🧠 UNDERSTAND
+             │
+             ▼
+          🧪 TEST
+             │
+             ▼
+         💉 BREAK
+             │
+             ▼
+       🔓 VALIDATE
+             │
+             ▼
+       📋 DOCUMENT
+             │
+             ▼
+         🛡️ SECURE
+</pre>
+
+<br>
+
+<h3>
+
+<code>Think like an attacker. Build like a defender.</code>
+
+</h3>
 
 </div>
 
@@ -355,13 +486,15 @@ SECURE
 
 <div align="center">
 
-## 📊 `SYSTEM METRICS`
+# 📊 `root@hexam:~# system_metrics`
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hexam-Alvex&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hexam-Alvex&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hexam-Alvex&theme=dark&hide_border=true&background=00000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hexam-Alvex&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000"/>
 
 </div>
 
@@ -369,7 +502,9 @@ SECURE
 
 <div align="center">
 
-## 🐍 `CONTRIBUTION MATRIX`
+# 🐍 `root@hexam:~# contribution_matrix`
+
+<br>
 
 <img src="https://raw.githubusercontent.com/Hexam-Alvex/Hexam-Alvex/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -379,42 +514,27 @@ SECURE
 
 <div align="center">
 
-## 📡 `CONNECT`
-
-<a href="https://github.com/Hexam-Alvex">
-
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=130&text=RESEARCH%20%E2%80%A2%20ATTACK%20%E2%80%A2%20UNDERSTAND%20%E2%80%A2%20SECURE&fontColor=FF0000&fontSize=25&animation=fadeIn"/>
 
 <br><br>
 
-<a href="#">
-
-<img src="https://img.shields.io/badge/LINKEDIN-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text id="k4j8sx"
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                    CONNECTION TERMINATED                    ║
-║                                                              ║
-║          RESEARCH • ATTACK • UNDERSTAND • SECURE             ║
-║                                                              ║
-║                         root@hexam                           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│              I DON'T BREAK SYSTEMS —                         │
+│              I SHOW THEM THEIR REFLECTION                    │
+│                                                              │
+│                         root@hexam                           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+</pre>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=150&section=footer"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:300000,100:000000&height=160&section=footer"/>
 
 </div>
