@@ -21,44 +21,21 @@
 
 <div align="center">
 
-## 🩸 `root@hexam:~# whoami`
+<h2>🩸 <code>root@hexam:~# whoami</code></h2>
+
+<br>
+
+<img src="https://images.unsplash.com/photo-1510511459019-5dda7724fd87?auto=format&fit=crop&w=1400&q=80" width="850"/>
+
+<br><br>
+
+<pre> ┌──(root㉿hexam)-[~/identity] └─$ whoami HEXAM ETHICAL HACKER // OFFENSIVE SECURITY ──────────────────────────────────────────────────────────────── I don't just run tools. I want to understand what happens behind them. I explore applications, APIs and infrastructure from an attacker's perspective — looking for weaknesses, validating their impact and understanding how they can be secured. ──────────────────────────────────────────────────────────────── 🔎 RECON 🧠 ANALYZE 💉 TEST \ │ / \ │ / ▼ ▼ ▼ 🔓 VALIDATE │ ▼ 🛡️ SECURE ──────────────────────────────────────────────────────────────── "Breaking systems to understand them. Securing them to make them stronger." ──────────────────────────────────────────────────────────────── STATUS :: ONLINE MODE :: OFFENSIVE ACCESS :: AUTHORIZED </pre>
+
+<br>
+
+<img src="https://img.shields.io/badge/ETHICAL_HACKER-000000?style=for-the-badge&logo=hackthebox&logoColor=9f0000"/> <img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-000000?style=for-the-badge&logo=kalilinux&logoColor=9f0000"/> <img src="https://img.shields.io/badge/RED_TEAM-000000?style=for-the-badge&logo=target&logoColor=9f0000"/>
 
 </div>
-
-<div align="center">
-
-<h2>🕶️ WHOAMI</h2>
-
-<pre>
-┌──(root㉿hexam)-[~/identity]
-└─$ whoami
-
-     ██╗  ██╗███████╗██╗  ██╗ █████╗ ███╗   ███╗
-     ██║  ██║██╔════╝╚██╗██╔╝██╔══██╗████╗ ████║
-     ███████║█████╗   ╚███╔╝ ███████║██╔████╔██║
-     ██╔══██║██╔══╝   ██╔██╗ ██╔══██║██║╚██╔╝██║
-     ██║  ██║███████╗██╔╝ ██╗██║  ██║██║ ╚═╝ ██║
-     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-
-────────────────────────────────────────────────────────
-
-"I don't just run tools.
- I want to understand what happens behind them."
-
-I study how applications, APIs and infrastructure behave,
-search for weaknesses, validate vulnerabilities and learn
-how those weaknesses can be properly secured.
-
-────────────────────────────────────────────────────────
-
-        🔎 RECON  →  🧠 ANALYZE  →  💉 TEST
-                         ↓
-        🛡️ SECURE  ←  🔓 VALIDATE
-
-────────────────────────────────────────────────────────
-</pre>
-
-
 <div align="center">
 
 ## 🧠 `./about_me.sh`
