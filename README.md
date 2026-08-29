@@ -40,13 +40,6 @@
      ██║  ██║███████╗██╔╝ ██╗██║  ██║██║ ╚═╝ ██║
      ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
 
-[+] Identity confirmed
-[+] Ethical Hacker
-[+] Offensive Security
-[+] Web & API Pentesting
-[+] Red Team
-[+] Security Research
-
 ────────────────────────────────────────────────────────
 
 "I don't just run tools.
