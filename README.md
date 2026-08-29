@@ -16,24 +16,6 @@
 
 <br>
 
-<div align="center">
-
-```text id="y7g2nx"
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  ███████╗ ██╗  ██╗ █████╗ ███╗   ███╗                          ║
-║  ██╔════╝ ██║  ██║██╔══██╗████╗ ████║                          ║
-║  █████╗   ███████║███████║██╔████╔██║                          ║
-║  ██╔══╝   ██╔══██║██╔══██║██║╚██╔╝██║                          ║
-║  ███████╗ ██║  ██║██║  ██║██║ ╚═╝ ██║                          ║
-║  ╚══════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝                          ║
-║                                                                  ║
-║              [ OFFENSIVE SECURITY TERMINAL ]                    ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
@@ -45,18 +27,17 @@
 
 <div align="center">
 
-```text id="f8c9nq"
+🩸 root@hexam:~# whoami
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
-│  USER        : HEXAM                                             │
-│  ROLE        : ETHICAL HACKER                                    │
-│  SPECIALTY   : OFFENSIVE SECURITY                                │
-│  FOCUS       : WEB / API / RED TEAM                              │
-│  ENVIRONMENT : KALI / BLACKARCH                                  │
-│  STATUS      : ████████████████████████████████ ONLINE           │
+│  I am an Ethical Hacker focused on Offensive Security,           │
+│  Web & API Pentesting and Red Team operations.                   │
 │                                                                  │
+│  I enjoy breaking down how applications, APIs and                │
+│  infrastructure work, finding the weaknesses hidden within       │
+│  them, validating their real-world impact and understanding      │
+│  how they can be properly secured.                               │
 └──────────────────────────────────────────────────────────────────┘
-```
 
 </div>
 
@@ -238,35 +219,6 @@ POST-EXPLOIT
 
 </div>
 
-<div align="center">
-
-```text id="r4g8de"
-┌──────────────────────────────────────────────────────────────────┐
-│ 🔴 RECON                                                        │
-│                                                                  │
-│ Nmap • Nuclei • Feroxbuster • Nikto • WPScan                     │
-│                                                                  │
-├──────────────────────────────────────────────────────────────────┤
-│ 💉 EXPLOITATION                                                  │
-│                                                                  │
-│ Burp Suite • SQLMap • Metasploit • OWASP ZAP                     │
-│                                                                  │
-├──────────────────────────────────────────────────────────────────┤
-│ 🕵️ ANALYSIS                                                      │
-│                                                                  │
-│ Wireshark • Nessus • HTTP Analysis • Traffic Analysis            │
-│                                                                  │
-├──────────────────────────────────────────────────────────────────┤
-│ 🛡️ DEFENSE                                                      │
-│                                                                  │
-│ FortiWeb • FortiSIEM • WAF • EDR                                │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
 
 <div align="center">
 
