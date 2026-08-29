@@ -56,10 +56,6 @@ how those weaknesses can be properly secured.
         🛡️ SECURE  ←  🔓 VALIDATE
 
 ────────────────────────────────────────────────────────
-
-STATUS :: ONLINE
-MODE   :: OFFENSIVE
-ACCESS :: AUTHORIZED
 </pre>
 
 </div>
