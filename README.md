@@ -4,56 +4,54 @@
 
 <br>
 
-<pre>
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║                    ▓▓▓  SECURE TERMINAL  ▓▓▓                       ║
-║                                                                      ║
-║  ┌──(root㉿hexam)-[~/offensive]                                     ║
-║  └─$ ./operator --initialize                                        ║
-║                                                                      ║
-║  [■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%                             ║
-║                                                                      ║
-║  [+] Loading offensive environment ................. DONE            ║
-║  [+] Loading reconnaissance modules ................ DONE            ║
-║  [+] Loading web security modules .................. DONE            ║
-║  [+] Loading API security modules .................. DONE            ║
-║  [+] Loading red team environment .................. DONE            ║
-║  [+] Loading research modules ...................... DONE            ║
-║                                                                      ║
-║  ──────────────────────────────────────────────────────────────────  ║
-║                                                                      ║
-║       IDENTITY       ::  HEXAM                                      ║
-║       CLASS          ::  ETHICAL HACKER                             ║
-║       SPECIALIZATION ::  OFFENSIVE SECURITY                         ║
-║       OPERATIONS     ::  WEB / API / RED TEAM                       ║
-║       ENVIRONMENT    ::  KALI / BLACKARCH                           ║
-║       STATUS         ::  ● ONLINE                                   ║
-║                                                                      ║
-║  ──────────────────────────────────────────────────────────────────  ║
-║                                                                      ║
-║             RECON  →  ANALYZE  →  TEST  →  VALIDATE                ║
-║                                                                      ║
-║                    ATTACK THE ASSUMPTIONS.                          ║
-║                    UNDERSTAND THE SYSTEM.                           ║
-║                    FIND THE WEAKNESS.                               ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-</pre>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1800&pause=500&color=FF0000&center=true&vCenter=true&width=900&lines=%5B+ROOT+SESSION+ESTABLISHED+%5D;%5B+OFFENSIVE+SECURITY+ACTIVE+%5D;%5B+ATTACK+SURFACE+MAPPED+%5D;%5B+SECURITY+RESEARCH+ACTIVE+%5D;%5B+HEXAM+ONLINE+%5D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=1800&pause=500&color=FF0000&center=true&vCenter=true&width=900&lines=%5Broot%40hexam%5D%24+./initialize;%5B%2B%5D+Loading+offensive+security+environment...;%5B%2B%5D+Mapping+attack+surface...;%5B%2B%5D+Loading+web+%26+API+modules...;%5B%2B%5D+Loading+red+team+environment...;%5B%2B%5D+Security+research+module+active;%5B%2B%5D+Operator+HEXAM+online."/>
 
 <br><br>
 
-<pre>
-                    ──[ OPERATOR SIGNATURE ]──
+<table align="center">
+<tr>
 
-          I DON'T BREAK SYSTEMS —
-          I SHOW THEM THEIR REFLECTION
+<td align="center" width="25%">
 
-                    ──[ SESSION ACTIVE ]──
-</pre>
+<h3>🌐 WEB</h3>
+
+<code>SQLi</code><br> <code>IDOR</code><br> <code>SSRF</code><br> <code>XSS</code><br> <code>UPLOAD</code><br> <code>AUTH</code>
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>🔌 API</h3>
+
+<code>JWT</code><br> <code>BOLA</code><br> <code>AUTH</code><br> <code>ACCESS CONTROL</code><br> <code>RATE LIMIT</code><br> <code>ENUM</code>
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>🎯 RED TEAM</h3>
+
+<code>RECON</code><br> <code>ENUMERATION</code><br> <code>INITIAL ACCESS</code><br> <code>PRIVESC</code><br> <code>POST-EXPLOIT</code><br> <code>LATERAL MOVEMENT</code>
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>🛡️ SECURITY</h3>
+
+<code>WAF</code><br> <code>VULN RESEARCH</code><br> <code>SECURITY TESTING</code><br> <code>AUTOMATION</code><br> <code>VALIDATION</code><br> <code>REPORTING</code>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<code>● OFFENSIVE SECURITY   //   ETHICAL HACKER   //   RED TEAM</code>
+
+<br><br>
+
+<code>I DON'T BREAK SYSTEMS — I SHOW THEM THEIR REFLECTION</code>
 
 </div>
