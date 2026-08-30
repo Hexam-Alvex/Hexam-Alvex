@@ -181,146 +181,24 @@ testing assumptions and challenging every layer of a system.
 ## 🚀 `OFFENSIVE ARSENAL`
 
 <br>
-<br>
 
-<table align="center">
-<tr>
+</div>
 
-<!-- RECON -->
-
-<td align="center" valign="top" width="220">
-
-<img src="https://img.shields.io/badge/%E2%98%A0%20RECONNAISSANCE-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/NMAP-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NESSUS-000000?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/NUCLEI-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FEROXBUSTER-000000?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/NIKTO-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WPSCAN-000000?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/HTTRACK-000000?style=for-the-badge"/>
-
-</td>
-
-<!-- WEB / API -->
-
-<td align="center" valign="top" width="220">
-
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20WEB%20%26%20API-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/BURP%20SUITE-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/POSTMAN-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQLMAP-000000?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/JWT%20TOOL-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge"/>
-
-</td>
-
-<!-- NETWORK / SECURITY -->
-
-<td align="center" valign="top" width="220">
-
-<img src="https://img.shields.io/badge/%F0%9F%92%80%20SECURITY%20%26%20NETWORK-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SIEM-000000?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/WAF BYPASS-000000?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/XDR-000000?style=for-the-badge"/>
-
-</td>
-
-<!-- DEVELOPMENT / INFRA -->
-
-<td align="center" valign="top" width="220">
-
-<img src="https://img.shields.io/badge/%F0%9F%90%8D%20DEV%20%26%20INFRA-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BASH-000000?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/TERRAFORM-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NGINX-000000?style=for-the-badge"/>
-
-<br><br>
-
-</td>
-
-</tr>
-</table>
+|              MODULE             | ARSENAL                                                                       |
+| :-----------------------------: | :---------------------------------------------------------------------------- |
+|      ☠️ **RECONNAISSANCE**      | `Nmap` · `Nessus` · `Nuclei` · `Feroxbuster` · `Nikto` · `WPScan` · `HTTrack` |
+|    🌐 **WEB & API SECURITY**    | `Burp Suite` · `OWASP ZAP` · `Postman` · `SQLMap` · `jwt_tool` · `Metasploit` |
+|    💀 **SECURITY OPERATIONS**   | `Wireshark` · `SIEM` · `WAF` · `XDR` · `EDR`                                  |
+| 🐍 **DEVELOPMENT & AUTOMATION** | `Python` · `Bash` · `Flask` · `Angular` · `Node.js` · `Git` · `CI/CD`         |
+|      🐳 **INFRASTRUCTURE**      | `Docker` · `Terraform` · `Nginx`                                              |
+|  🐧 **OPERATING ENVIRONMENTS**  | `Kali Linux` · `BlackArch` · `Ubuntu Server`                                  |
+|     ☁️ **CLOUD & PLATFORMS**    | `AWS` · `Vercel` · `Supabase`                                                 |
 
 <br>
 
-<table align="center">
-<tr>
+<div align="center">
 
-<td align="center">
-
-<img src="https://img.shields.io/badge/%F0%9F%90%A7%20OPERATING%20ENVIRONMENTS-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/KALI%20LINUX-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BLACKARCH-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UBUNTU%20SERVER-000000?style=for-the-badge"/>
-
-</td>
-
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20DEV%20WORKFLOW-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge"/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/%5B%20OFFENSIVE%20ARSENAL%20%5D-ONLINE-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/%5B%20ARSENAL%20%5D-ONLINE-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
 
 </div>
 
