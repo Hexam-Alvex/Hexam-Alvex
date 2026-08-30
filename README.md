@@ -169,6 +169,137 @@ testing assumptions and challenging every layer of a system.
 </tr>
 </table>
 
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                    OFFENSIVE ARSENAL                            -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🚀OFFENSIVE ARSENAL`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=1400&color=8B0000&center=true&vCenter=true&width=850&height=35&lines=%5B%2B%5D+LOADING+OFFENSIVE+ARSENAL...;%5B%2B%5D+TOOLS+INITIALIZED...;%5B%2B%5D+READY+FOR+SECURITY+ASSESSMENT"/>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="210">
+
+### 🔎 RECON
+
+<br>
+
+<img src="https://img.shields.io/badge/NMAP-000000?style=for-the-badge&logo=nmap&logoColor=FFFFFF"/>
+<br><br>
+<img src="https://img.shields.io/badge/NUCLEI-000000?style=for-the-badge&logoColor=FFFFFF"/>
+<br><br>
+<img src="https://img.shields.io/badge/FEROXBUSTER-000000?style=for-the-badge&logoColor=FFFFFF"/>
+<br><br>
+<img src="https://img.shields.io/badge/NIKTO-000000?style=for-the-badge&logoColor=FFFFFF"/>
+
+</td>
+
+<td align="center" width="210">
+
+### 🌐 WEB / API
+
+<br>
+
+<img src="https://img.shields.io/badge/BURP%20SUITE-000000?style=for-the-badge&logo=burpsuite&logoColor=FFFFFF"/>
+<br><br>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=FFFFFF"/>
+<br><br>
+<img src="https://img.shields.io/badge/POSTMAN-000000?style=for-the-badge&logo=postman&logoColor=FFFFFF"/>
+<br><br>
+<img src="https://img.shields.io/badge/WPSCAN-000000?style=for-the-badge&logoColor=FFFFFF"/>
+
+</td>
+
+<td align="center" width="210">
+
+### 💉 EXPLOITATION
+
+<br>
+
+<img src="https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge&logo=metasploit&logoColor=FFFFFF"/>
+<br><br>
+<img src="https://img.shields.io/badge/SQLMAP-000000?style=for-the-badge&logoColor=FFFFFF"/>
+<br><br>
+<img src="https://img.shields.io/badge/HTTRACK-000000?style=for-the-badge&logoColor=FFFFFF"/>
+
+</td>
+
+<td align="center" width="210">
+
+### 📡 NETWORK
+
+<br>
+
+<img src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=FFFFFF"/>
+<br><br>
+<img src="https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logoColor=FFFFFF"/>
+<br><br>
+<img src="https://img.shields.io/badge/TLS-000000?style=for-the-badge&logoColor=FFFFFF"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="250">
+
+### 🐧 ENVIRONMENT
+
+<br>
+
+<img src="https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF"/>
+<br><br>
+<img src="https://img.shields.io/badge/BLACKARCH-000000?style=for-the-badge&logo=archlinux&logoColor=FFFFFF"/>
+<br><br>
+<img src="https://img.shields.io/badge/UBUNTU_SERVER-000000?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF"/>
+
+</td>
+
+<td align="center" width="250">
+
+### 🐍 AUTOMATION
+
+<br>
+
+<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+<br><br>
+<img src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF"/>
+<br><br>
+<img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/%5B%20ARSENAL_STATUS%20%5D-ONLINE-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+
+</div>
+
+
+
 </div>
 
 
