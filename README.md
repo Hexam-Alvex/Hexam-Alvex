@@ -196,13 +196,6 @@ testing assumptions and challenging every layer of a system.
 
 <br>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/%5B%20ARSENAL%20%5D-ONLINE-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
-
-</div>
-
-
 
 
 </div>
