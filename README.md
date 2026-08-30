@@ -16,7 +16,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- OFFENSIVE MODULES -->
+<!--                    OFFENSIVE MODULES                            -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -24,45 +24,96 @@
 
 <br>
 
-<table> <tr>
+<table>
+<tr>
 
-<td align="center">
+<td align="center" width="150">
 
-<img src="https://img.shields.io/badge/%E2%98%A0%200x01-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/> <br> <img src="https://img.shields.io/badge/%F0%9F%8C%90%20WEB%20SECURITY-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.icons8.com/fluency-systems-filled/48/ff0000/globe.png" width="48"/>
 
-</td>
+<br>
 
-<td align="center">
+<img src="https://img.shields.io/badge/%E2%98%A0%200x01-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
 
-<img src="https://img.shields.io/badge/%E2%98%A0%200x02-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/> <br> <img src="https://img.shields.io/badge/%F0%9F%94%8C%20API%20SECURITY-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<br>
 
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/%E2%98%A0%200x03-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/> <br> <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20RED%20TEAM-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/WEB%20SECURITY-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
 
 </td>
 
-<td align="center">
+<td align="center" width="150">
 
-<img src="https://img.shields.io/badge/%E2%98%A0%200x04-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/> <br> <img src="https://img.shields.io/badge/%F0%9F%92%80%20PENTESTING-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.icons8.com/fluency-systems-filled/48/ff0000/api.png" width="48"/>
 
-</td>
+<br>
 
-<td align="center">
+<img src="https://img.shields.io/badge/%E2%98%A0%200x02-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
 
-<img src="https://img.shields.io/badge/%E2%98%A0%200x05-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/> <br> <img src="https://img.shields.io/badge/%F0%9F%94%8E%20SECURITY%20RESEARCH-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<br>
 
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/%E2%98%A0%200x06-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/> <br> <img src="https://img.shields.io/badge/%F0%9F%90%8D%20SECURITY%20AUTOMATION-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/API%20SECURITY-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
 
 </td>
 
-</tr> </table>
+<td align="center" width="150">
+
+<img src="https://img.icons8.com/fluency-systems-filled/48/ff0000/target.png" width="48"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/%E2%98%A0%200x03-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/RED%20TEAM-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+
+</td>
+
+<td align="center" width="150">
+
+<img src="https://img.icons8.com/fluency-systems-filled/48/ff0000/skull.png" width="48"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/%E2%98%A0%200x04-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/PENTESTING-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+
+</td>
+
+<td align="center" width="150">
+
+<img src="https://img.icons8.com/fluency-systems-filled/48/ff0000/search.png" width="48"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/%E2%98%A0%200x05-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/SECURITY%20RESEARCH-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+
+</td>
+
+<td align="center" width="150">
+
+<img src="https://img.icons8.com/fluency-systems-filled/48/ff0000/python.png" width="48"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/%E2%98%A0%200x06-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/SECURITY%20AUTOMATION-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
+
 </div>
