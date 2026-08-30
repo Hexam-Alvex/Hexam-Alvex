@@ -178,12 +178,9 @@ testing assumptions and challenging every layer of a system.
 
 <div align="center">
 
-## 🚀 `0x08 // OFFENSIVE ARSENAL`
+## 🚀 `OFFENSIVE ARSENAL`
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=1400&color=8B0000&center=true&vCenter=true&width=850&height=35&lines=%5B%2B%5D+LOADING+OFFENSIVE+ARSENAL...;%5B%2B%5D+TOOLS+INITIALIZED...;%5B%2B%5D+READY+FOR+SECURITY+ASSESSMENT"/>
-
 <br>
 
 <table align="center">
