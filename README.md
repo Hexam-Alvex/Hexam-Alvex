@@ -122,7 +122,7 @@
 
 <div align="center">
 
-## 🩸 `0x07 // ABOUT ME`
+## 🩸 `ABOUT ME`
 
 <br>
 
@@ -134,7 +134,7 @@
 <tr>
 <td width="850">
 
-<h3 align="center">🕶️ HEXAM // OFFENSIVE SECURITY</h3>
+<h3 align="center">🕶️ HEXAM</h3>
 
 <p align="center">
 I approach cybersecurity from an offensive perspective, studying how
