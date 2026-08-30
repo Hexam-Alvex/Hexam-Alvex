@@ -178,7 +178,7 @@ testing assumptions and challenging every layer of a system.
 
 <div align="center">
 
-## 🚀OFFENSIVE ARSENAL`
+## 🚀 `0x08 // OFFENSIVE ARSENAL`
 
 <br>
 
@@ -187,116 +187,162 @@ testing assumptions and challenging every layer of a system.
 <br>
 
 <table align="center">
-
 <tr>
 
-<td align="center" width="210">
+<!-- RECON -->
 
-### 🔎 RECON
+<td align="center" valign="top" width="220">
 
-<br>
+<img src="https://img.shields.io/badge/%E2%98%A0%20RECONNAISSANCE-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
 
-<img src="https://img.shields.io/badge/NMAP-000000?style=for-the-badge&logo=nmap&logoColor=FFFFFF"/>
 <br><br>
-<img src="https://img.shields.io/badge/NUCLEI-000000?style=for-the-badge&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/NMAP-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NESSUS-000000?style=for-the-badge"/>
+
 <br><br>
-<img src="https://img.shields.io/badge/FEROXBUSTER-000000?style=for-the-badge&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/NUCLEI-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FEROXBUSTER-000000?style=for-the-badge"/>
+
 <br><br>
-<img src="https://img.shields.io/badge/NIKTO-000000?style=for-the-badge&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/NIKTO-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WPSCAN-000000?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTTRACK-000000?style=for-the-badge"/>
 
 </td>
 
-<td align="center" width="210">
+<!-- WEB / API -->
 
-### 🌐 WEB / API
+<td align="center" valign="top" width="220">
 
-<br>
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20WEB%20%26%20API-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
 
-<img src="https://img.shields.io/badge/BURP%20SUITE-000000?style=for-the-badge&logo=burpsuite&logoColor=FFFFFF"/>
 <br><br>
-<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/BURP%20SUITE-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge"/>
+
 <br><br>
-<img src="https://img.shields.io/badge/POSTMAN-000000?style=for-the-badge&logo=postman&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/POSTMAN-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLMAP-000000?style=for-the-badge"/>
+
 <br><br>
-<img src="https://img.shields.io/badge/WPSCAN-000000?style=for-the-badge&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/JWT%20TOOL-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge"/>
 
 </td>
 
-<td align="center" width="210">
+<!-- NETWORK / SECURITY -->
 
-### 💉 EXPLOITATION
+<td align="center" valign="top" width="220">
 
-<br>
+<img src="https://img.shields.io/badge/%F0%9F%92%80%20SECURITY%20%26%20NETWORK-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
 
-<img src="https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge&logo=metasploit&logoColor=FFFFFF"/>
 <br><br>
-<img src="https://img.shields.io/badge/SQLMAP-000000?style=for-the-badge&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FORTIRECON-000000?style=for-the-badge"/>
+
 <br><br>
-<img src="https://img.shields.io/badge/HTTRACK-000000?style=for-the-badge&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/FORTIWEB-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FORTISIEM-000000?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SENTINELONE-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDR-000000?style=for-the-badge"/>
 
 </td>
 
-<td align="center" width="210">
+<!-- DEVELOPMENT / INFRA -->
 
-### 📡 NETWORK
+<td align="center" valign="top" width="220">
 
-<br>
+<img src="https://img.shields.io/badge/%F0%9F%90%8D%20DEV%20%26%20INFRA-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
 
-<img src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=FFFFFF"/>
 <br><br>
-<img src="https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BASH-000000?style=for-the-badge"/>
+
 <br><br>
-<img src="https://img.shields.io/badge/TLS-000000?style=for-the-badge&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/TERRAFORM-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NGINX-000000?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ANGULAR-000000?style=for-the-badge"/>
 
 </td>
 
 </tr>
-
 </table>
 
 <br>
 
 <table align="center">
-
 <tr>
 
-<td align="center" width="250">
+<td align="center">
 
-### 🐧 ENVIRONMENT
+<img src="https://img.shields.io/badge/%F0%9F%90%A7%20OPERATING%20ENVIRONMENTS-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF"/>
 <br><br>
-<img src="https://img.shields.io/badge/BLACKARCH-000000?style=for-the-badge&logo=archlinux&logoColor=FFFFFF"/>
-<br><br>
-<img src="https://img.shields.io/badge/UBUNTU_SERVER-000000?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/KALI%20LINUX-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BLACKARCH-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UBUNTU%20SERVER-000000?style=for-the-badge"/>
 
 </td>
 
-<td align="center" width="250">
+<td align="center">
 
-### 🐍 AUTOMATION
+<img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F%20CLOUD%20%26%20PLATFORM-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
 <br><br>
-<img src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SUPABASE-000000?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20DEV%20WORKFLOW-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+
 <br><br>
-<img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge"/>
 
 </td>
 
 </tr>
-
 </table>
 
 <br>
 
-<img src="https://img.shields.io/badge/%5B%20ARSENAL_STATUS%20%5D-ONLINE-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/%5B%20OFFENSIVE%20ARSENAL%20%5D-ONLINE-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
 
 </div>
+
 
 
 
