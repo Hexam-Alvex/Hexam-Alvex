@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                    H E X A M  //  H E A D E R              -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=380&color=0:000000,25:010000,50:050000,75:200000,100:8B0000&text=HEXAM&fontColor=FF0000&fontSize=115&font=Fira%20Code&animation=fadeIn&stroke=FF0000&strokeWidth=3"/>
 
