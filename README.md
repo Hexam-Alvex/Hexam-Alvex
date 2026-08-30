@@ -189,7 +189,7 @@ testing assumptions and challenging every layer of a system.
 |      ☠️ **RECONNAISSANCE**      | `Nmap` · `Nessus` · `Nuclei` · `Feroxbuster` · `Nikto` · `WPScan` · `HTTrack`  |
 |    🌐 **WEB & API SECURITY**    | `Burp Suite` · `OWASP ZAP` · `Postman` · `SQLMap` · `jwt_tool` · `Metasploit` |
 |    💀 **SECURITY OPERATIONS**   | `Wireshark` · `SIEM` · `WAF` · `XDR` · `EDR`                                  |
-| 🐍 **DEVELOPMENT & AUTOMATION** | `Python` · `Bash` · `Flask` · `Angular` · `Node.js` · `Git` · `CI/CD`         |
+| 🐍 **DEVELOPMENT & AUTOMATION** | `Python` · `Bash` · `Node.js` · `Git` · `CI/CD`                               |
 |      🐳 **INFRASTRUCTURE**      | `Apache` · `IIS` · `Nginx` · `Tomcat`                                         |
 |  🐧 **OPERATING ENVIRONMENTS**  | `Kali Linux` · `BlackArch` · `Ubuntu Server`                                  |
 |     ☁️ **CLOUD & PLATFORMS**    | `EC2` · `Vercel` · `S3`                                                       |
