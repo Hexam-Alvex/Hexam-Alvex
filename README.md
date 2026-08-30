@@ -168,10 +168,6 @@ testing assumptions and challenging every layer of a system.
 
 <p align="center">
 
-<code>THINK LIKE AN ATTACKER.</code>
-  →   <code>UNDERSTAND THE SYSTEM.</code>
-  →   <code>SECURE IT.</code>
-
 </p>
 
 </td>
