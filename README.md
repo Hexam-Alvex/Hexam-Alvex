@@ -124,17 +124,12 @@
 
 ## 🩸 `ABOUT ME`
 
-<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=1200&color=8B0000&center=true&vCenter=true&width=850&height=40&lines=%5B%2B%5D+LOADING+OPERATOR+PROFILE...;%5B%2B%5D+OFFENSIVE+MINDSET+DETECTED;%5B%2B%5D+SECURITY+RESEARCH+ENABLED;%5B%2B%5D+TARGET%3A+UNDERSTAND+%7C+VALIDATE+%7C+SECURE"/>
-
-<br>
 
 <table align="center">
 <tr>
 <td width="850">
 
-<h3 align="center">🕶️ HEXAM</h3>
 
 <p align="center">
 I approach cybersecurity from an offensive perspective, studying how
