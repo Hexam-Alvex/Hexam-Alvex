@@ -71,7 +71,7 @@
 
 <td align="center" width="150">
 
-<img src="https://img.icons8.com/skull.png" width="48"/>
+<img src="https://img.icons8.com/hacker.png" width="48"/>
 
 <br>
 
