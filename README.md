@@ -17,88 +17,17 @@
 
 <table>
 <tr>
+<div align="center">
 
-<td align="center" width="150">
+<img src="https://img.shields.io/badge/0x01%20%7C%20WEB-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/0x02%20%7C%20API-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/0x03%20%7C%20RED%20TEAM-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
 
-### `01`
+<br>
 
-**WEB**
-
-`SECURITY`
-
-`[ ACTIVE ]`
-
-</td>
-
-<td align="center" width="150">
-
-### `02`
-
-**API**
-
-`SECURITY`
-
-`[ ACTIVE ]`
-
-</td>
-
-<td align="center" width="150">
-
-### `03`
-
-**RED TEAM**
-
-`OPERATIONS`
-
-`[ ACTIVE ]`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="150">
-
-### `04`
-
-**PENTEST**
-
-`SECURITY TESTING`
-
-`[ ACTIVE ]`
-
-</td>
-
-<td align="center" width="150">
-
-### `05`
-
-**RESEARCH**
-
-`VULNERABILITY`
-
-`[ ACTIVE ]`
-
-</td>
-
-<td align="center" width="150">
-
-### `06`
-
-**AUTOMATION**
-
-`SECURITY`
-
-`[ ACTIVE ]`
-
-</td>
-
-</tr>
-</table>
+<img src="https://img.shields.io/badge/0x04%20%7C%20PENTEST-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/0x05%20%7C%20RESEARCH-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/0x06%20%7C%20AUTOMATION-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
 
 </div>
-
-
-
 </div>
