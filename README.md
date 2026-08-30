@@ -11,6 +11,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1600&pause=500&color=FF0000&center=true&vCenter=true&width=850&height=70&lines=%5Broot%40hexam%5D%24+./recon;%5B%2B%5D+Attack+surface+identified;%5Broot%40hexam%5D%24+./analyze;%5B%2B%5D+Security+analysis+in+progress...;%5Broot%40hexam%5D%24+./test;%5B%2B%5D+Offensive+security+environment+ready"/>
 
+<br>
+
+<img src="https://img.shields.io/badge/●_SYSTEM_ONLINE-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/ETHICAL_HACKER-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+
 <br><br>
 
 <!-- SPECIALIZATION MODULES -->
@@ -93,13 +99,7 @@
 </tr>
 </table>
 
-<br>
 
-<img src="https://img.shields.io/badge/●_SYSTEM_ONLINE-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
-<img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
-<img src="https://img.shields.io/badge/ETHICAL_HACKER-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
-
-<br><br>
 
 <code>☠ I DON'T BREAK SYSTEMS — I SHOW THEM THEIR REFLECTION ☠</code>
 
