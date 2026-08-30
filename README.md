@@ -117,3 +117,67 @@
 </div>
 
 </div>
+
+
+
+<div align="center">
+
+## 🩸 `0x07 // ABOUT ME`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=1200&color=8B0000&center=true&vCenter=true&width=850&height=40&lines=%5B%2B%5D+LOADING+OPERATOR+PROFILE...;%5B%2B%5D+OFFENSIVE+MINDSET+DETECTED;%5B%2B%5D+SECURITY+RESEARCH+ENABLED;%5B%2B%5D+TARGET%3A+UNDERSTAND+%7C+VALIDATE+%7C+SECURE"/>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="850">
+
+<h3 align="center">🕶️ HEXAM // OFFENSIVE SECURITY</h3>
+
+<p align="center">
+I approach cybersecurity from an offensive perspective, studying how
+applications, APIs and infrastructure behave under attack.
+</p>
+
+<p align="center">
+My focus is not simply finding vulnerabilities, but understanding
+why they exist, validating their real impact and documenting how
+they can be properly mitigated.
+</p>
+
+<p align="center">
+I believe that effective security starts by thinking like an attacker,
+testing assumptions and challenging every layer of a system.
+</p>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/RECON-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/ANALYZE-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/TEST-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/VALIDATE-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/SECURE-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+
+</div>
+
+<br>
+
+<p align="center">
+
+<code>THINK LIKE AN ATTACKER.</code>
+  →   <code>UNDERSTAND THE SYSTEM.</code>
+  →   <code>SECURE IT.</code>
+
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
