@@ -305,17 +305,6 @@ testing assumptions and challenging every layer of a system.
 
 </td>
 
-<td align="center">
-
-<img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F%20CLOUD%20%26%20PLATFORM-8B0000?style=for-the-badge&labelColor=000000&color=8B0000"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SUPABASE-000000?style=for-the-badge"/>
-
-</td>
 
 <td align="center">
 
