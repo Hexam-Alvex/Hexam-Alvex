@@ -151,11 +151,11 @@ testing assumptions and challenging every layer of a system.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/RECON-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
-<img src="https://img.shields.io/badge/ANALYZE-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
-<img src="https://img.shields.io/badge/TEST-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
-<img src="https://img.shields.io/badge/VALIDATE-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
-<img src="https://img.shields.io/badge/SECURE-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/RECON-000000?style=for-the-badge&labelColor=000000&color=000000"/>
+<img src="https://img.shields.io/badge/ANALYZE-000000?style=for-the-badge&labelColor=000000&color=000000"/>
+<img src="https://img.shields.io/badge/TEST-000000?style=for-the-badge&labelColor=000000&color=000000"/>
+<img src="https://img.shields.io/badge/VALIDATE-000000?style=for-the-badge&labelColor=000000&color=000000"/>
+<img src="https://img.shields.io/badge/SECURE-000000?style=for-the-badge&labelColor=000000&color=000000"/>
 
 </div>
 
