@@ -186,13 +186,13 @@ testing assumptions and challenging every layer of a system.
 
 |              MODULE             | ARSENAL                                                                       |
 | :-----------------------------: | :---------------------------------------------------------------------------- |
-|      ☠️ **RECONNAISSANCE**      | `Nmap` · `Nessus` · `Nuclei` · `Feroxbuster` · `Nikto` · `WPScan` · `HTTrack` |
+|      ☠️ **RECONNAISSANCE**      | `Nmap` · `Nessus` · `Nuclei` · `Feroxbuster` · `Nikto` · `WPScan` · `HTTrack`  |
 |    🌐 **WEB & API SECURITY**    | `Burp Suite` · `OWASP ZAP` · `Postman` · `SQLMap` · `jwt_tool` · `Metasploit` |
 |    💀 **SECURITY OPERATIONS**   | `Wireshark` · `SIEM` · `WAF` · `XDR` · `EDR`                                  |
 | 🐍 **DEVELOPMENT & AUTOMATION** | `Python` · `Bash` · `Flask` · `Angular` · `Node.js` · `Git` · `CI/CD`         |
-|      🐳 **INFRASTRUCTURE**      | `Docker` · `Terraform` · `Nginx`                                              |
+|      🐳 **INFRASTRUCTURE**      | `Apache` · `IIS` · `Nginx` · `Tomcat`                                         |
 |  🐧 **OPERATING ENVIRONMENTS**  | `Kali Linux` · `BlackArch` · `Ubuntu Server`                                  |
-|     ☁️ **CLOUD & PLATFORMS**    | `AWS` · `Vercel` · `Supabase`                                                 |
+|     ☁️ **CLOUD & PLATFORMS**    | `EC2` · `Vercel` · `S3`                                                       |
 
 <br>
 
