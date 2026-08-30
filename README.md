@@ -283,9 +283,6 @@ testing assumptions and challenging every layer of a system.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ANGULAR-000000?style=for-the-badge"/>
-
 </td>
 
 </tr>
