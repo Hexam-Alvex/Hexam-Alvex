@@ -15,86 +15,121 @@
 
 <br><br>
 
-<!-- SPECIALIZATION MODULES -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<table align="center">
+<!--                    OFFENSIVE MODULES                            -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<table>
 <tr>
 
-<td align="center" width="140">
+<td width="160" align="center">
+
 <pre>
-┌────────────┐
-│    WEB     │
-│            │
-│    🌐      │
-│            │
-│ SECURITY   │
-└────────────┘
+┌──────────────┐
+│  [ 01 ]      │
+│              │
+│    WEB       │
+│              │
+│  SECURITY    │
+│              │
+│  ● ACTIVE    │
+└──────────────┘
 </pre>
+
 </td>
 
-<td align="center" width="140">
+<td width="160" align="center">
+
 <pre>
-┌────────────┐
-│    API     │
-│            │
-│    🔌      │
-│            │
-│ SECURITY   │
-└────────────┘
+┌──────────────┐
+│  [ 02 ]      │
+│              │
+│    API       │
+│              │
+│  SECURITY    │
+│              │
+│  ● ACTIVE    │
+└──────────────┘
 </pre>
+
 </td>
 
-<td align="center" width="140">
+<td width="160" align="center">
+
 <pre>
-┌────────────┐
-│  RED TEAM  │
-│            │
-│    🎯      │
-│            │
-│ OFFENSIVE  │
-└────────────┘
+┌──────────────┐
+│  [ 03 ]      │
+│              │
+│  RED TEAM    │
+│              │
+│  OPERATIONS  │
+│              │
+│  ● ACTIVE    │
+└──────────────┘
 </pre>
+
 </td>
 
-<td align="center" width="140">
+</tr>
+
+<tr>
+
+<td width="160" align="center">
+
 <pre>
-┌────────────┐
-│  PENTEST   │
-│            │
-│    💀      │
-│            │
-│ TESTING    │
-└────────────┘
+┌──────────────┐
+│  [ 04 ]      │
+│              │
+│   PENTEST    │
+│              │
+│   SECURITY   │
+│    TESTING   │
+│  ● ACTIVE    │
+└──────────────┘
 </pre>
+
 </td>
 
-<td align="center" width="140">
+<td width="160" align="center">
+
 <pre>
-┌────────────┐
-│  RESEARCH  │
-│            │
-│    🔎      │
-│            │
-│ SECURITY   │
-└────────────┘
+┌──────────────┐
+│  [ 05 ]      │
+│              │
+│   RESEARCH   │
+│              │
+│ VULNERABILITY│
+│              │
+│  ● ACTIVE    │
+└──────────────┘
 </pre>
+
 </td>
 
-<td align="center" width="140">
+<td width="160" align="center">
+
 <pre>
-┌────────────┐
-│ AUTOMATION │
-│            │
-│    🐍      │
-│            │
-│ SECURITY   │
-└────────────┘
+┌──────────────┐
+│  [ 06 ]      │
+│              │
+│  AUTOMATION  │
+│              │
+│   SECURITY   │
+│              │
+│  ● ACTIVE    │
+└──────────────┘
 </pre>
+
 </td>
 
 </tr>
 </table>
 
+</div>
 
 
 
