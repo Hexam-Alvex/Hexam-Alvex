@@ -29,7 +29,7 @@
 
 <td align="center" width="150">
 
-<img src="https://img.icons8.com/fluency-systems-filled/48/ff0000/globe.png" width="48"/>
+<img src="https://img.icons8.com/fluency-systems-filled/48/ffffff/globe.png" width="48"/>
 
 <br>
 
@@ -43,7 +43,7 @@
 
 <td align="center" width="150">
 
-<img src="https://img.icons8.com/fluency-systems-filled/48/ff0000/api.png" width="48"/>
+<img src="https://img.icons8.com/color/48/api.png" width="48"/>
 
 <br>
 
@@ -57,7 +57,7 @@
 
 <td align="center" width="150">
 
-<img src="https://img.icons8.com/fluency-systems-filled/48/ff0000/target.png" width="48"/>
+<img src="https://img.icons8.com/color/48/target.png" width="48"/>
 
 <br>
 
@@ -71,7 +71,7 @@
 
 <td align="center" width="150">
 
-<img src="https://img.icons8.com/fluency-systems-filled/48/ff0000/skull.png" width="48"/>
+<img src="https://img.icons8.com/color/48/skull.png" width="48"/>
 
 <br>
 
@@ -85,7 +85,7 @@
 
 <td align="center" width="150">
 
-<img src="https://img.icons8.com/fluency-systems-filled/48/ff0000/search.png" width="48"/>
+<img src="https://img.icons8.com/color/48/search.png" width="48"/>
 
 <br>
 
@@ -99,7 +99,7 @@
 
 <td align="center" width="150">
 
-<img src="https://img.icons8.com/fluency-systems-filled/48/ff0000/python.png" width="48"/>
+<img src="https://img.icons8.com/color/48/python.png" width="48"/>
 
 <br>
 
@@ -107,7 +107,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/SECURITY%20AUTOMATION-000000?0"/>
+<img src="https://img.shields.io/badge/SECURITY%20AUTOMATION-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
 
 </td>
 
