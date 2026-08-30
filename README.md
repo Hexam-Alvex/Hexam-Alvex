@@ -13,64 +13,44 @@
 <img src="https://img.shields.io/badge/WEB_%26_API_SECURITY-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
 <img src="https://img.shields.io/badge/SECURITY_RESEARCH-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
 
-<br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    OFFENSIVE MODULES                            -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <table>
 <tr>
 
-<td width="160" align="center">
+<td align="center" width="150">
 
-<pre>
-┌──────────────┐
-│  [ 01 ]      │
-│              │
-│    WEB       │
-│              │
-│  SECURITY    │
-│              │
-│  ● ACTIVE    │
-└──────────────┘
-</pre>
+### `01`
+
+**WEB**
+
+`SECURITY`
+
+`[ ACTIVE ]`
 
 </td>
 
-<td width="160" align="center">
+<td align="center" width="150">
 
-<pre>
-┌──────────────┐
-│  [ 02 ]      │
-│              │
-│    API       │
-│              │
-│  SECURITY    │
-│              │
-│  ● ACTIVE    │
-└──────────────┘
-</pre>
+### `02`
+
+**API**
+
+`SECURITY`
+
+`[ ACTIVE ]`
 
 </td>
 
-<td width="160" align="center">
+<td align="center" width="150">
 
-<pre>
-┌──────────────┐
-│  [ 03 ]      │
-│              │
-│  RED TEAM    │
-│              │
-│  OPERATIONS  │
-│              │
-│  ● ACTIVE    │
-└──────────────┘
-</pre>
+### `03`
+
+**RED TEAM**
+
+`OPERATIONS`
+
+`[ ACTIVE ]`
 
 </td>
 
@@ -78,51 +58,39 @@
 
 <tr>
 
-<td width="160" align="center">
+<td align="center" width="150">
 
-<pre>
-┌──────────────┐
-│  [ 04 ]      │
-│              │
-│   PENTEST    │
-│              │
-│   SECURITY   │
-│    TESTING   │
-│  ● ACTIVE    │
-└──────────────┘
-</pre>
+### `04`
+
+**PENTEST**
+
+`SECURITY TESTING`
+
+`[ ACTIVE ]`
 
 </td>
 
-<td width="160" align="center">
+<td align="center" width="150">
 
-<pre>
-┌──────────────┐
-│  [ 05 ]      │
-│              │
-│   RESEARCH   │
-│              │
-│ VULNERABILITY│
-│              │
-│  ● ACTIVE    │
-└──────────────┘
-</pre>
+### `05`
+
+**RESEARCH**
+
+`VULNERABILITY`
+
+`[ ACTIVE ]`
 
 </td>
 
-<td width="160" align="center">
+<td align="center" width="150">
 
-<pre>
-┌──────────────┐
-│  [ 06 ]      │
-│              │
-│  AUTOMATION  │
-│              │
-│   SECURITY   │
-│              │
-│  ● ACTIVE    │
-└──────────────┘
-</pre>
+### `06`
+
+**AUTOMATION**
+
+`SECURITY`
+
+`[ ACTIVE ]`
 
 </td>
 
@@ -130,7 +98,6 @@
 </table>
 
 </div>
-
 
 
 
