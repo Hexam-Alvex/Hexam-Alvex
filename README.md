@@ -248,17 +248,15 @@ testing assumptions and challenging every layer of a system.
 <br><br>
 
 <img src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FORTIRECON-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SIEM-000000?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FORTIWEB-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FORTISIEM-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WAF BYPASS-000000?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SENTINELONE-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EDR-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XDR-000000?style=for-the-badge"/>
 
 </td>
 
