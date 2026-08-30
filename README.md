@@ -7,9 +7,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1600&pause=6000&color=FF0000&center=true&vCenter=true&width=950&height=70&lines=%E2%98%A0%20I%20DON%27T%20BREAK%20SYSTEMS%20%E2%80%94%20I%20SHOW%20THEM%20THEIR%20REFLECTION%20%E2%98%A0"/>
 <br>
 
-<img src="https://img.shields.io/badge/●_SYSTEM_ONLINE-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
-<img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
 <img src="https://img.shields.io/badge/ETHICAL_HACKER-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/RED_TEAM-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/WEB_%26_API_SECURITY-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/SECURITY_RESEARCH-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
 
 <br><br>
 
