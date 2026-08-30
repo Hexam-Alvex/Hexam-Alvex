@@ -4,42 +4,82 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=1800&pause=500&color=FF0000&center=true&vCenter=true&width=900&lines=%5Broot%40hexam%5D%24+./initialize;%5B%2B%5D+Loading+offensive+security+environment...;%5B%2B%5D+Mapping+attack+surface...;%5B%2B%5D+Loading+web+%26+API+modules...;%5B%2B%5D+Loading+red+team+environment...;%5B%2B%5D+Security+research+module+active;%5B%2B%5D+Operator+HEXAM+online."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=1800&pause=500&color=FF0000&center=true&vCenter=true&width=850&lines=%5Broot%40hexam%5D%24+./initialize;%5B%2B%5D+Offensive+Security+Environment+Loaded;%5B%2B%5D+Attack+Surface+Analysis+Ready;%5B%2B%5D+Security+Research+Active;%5B%2B%5D+Operator+HEXAM+Online"/>
 
 <br><br>
 
 <table align="center">
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="16%">
 
-<h3>🌐 WEB</h3>
+<h3>🌐</h3>
 
-<code>SQLi</code><br> <code>IDOR</code><br> <code>SSRF</code><br> <code>XSS</code><br> <code>UPLOAD</code><br> <code>AUTH</code>
+<b>WEB</b>
 
-</td>
+<br><br>
 
-<td align="center" width="25%">
-
-<h3>🔌 API</h3>
-
-<code>JWT</code><br> <code>BOLA</code><br> <code>AUTH</code><br> <code>ACCESS CONTROL</code><br> <code>RATE LIMIT</code><br> <code>ENUM</code>
+<sub>Application<br>Security</sub>
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="16%">
 
-<h3>🎯 RED TEAM</h3>
+<h3>🔌</h3>
 
-<code>RECON</code><br> <code>ENUMERATION</code><br> <code>INITIAL ACCESS</code><br> <code>PRIVESC</code><br> <code>POST-EXPLOIT</code><br> <code>LATERAL MOVEMENT</code>
+<b>API</b>
+
+<br><br>
+
+<sub>API<br>Security</sub>
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="16%">
 
-<h3>🛡️ SECURITY</h3>
+<h3>🎯</h3>
 
-<code>WAF</code><br> <code>VULN RESEARCH</code><br> <code>SECURITY TESTING</code><br> <code>AUTOMATION</code><br> <code>VALIDATION</code><br> <code>REPORTING</code>
+<b>RED TEAM</b>
+
+<br><br>
+
+<sub>Offensive<br>Operations</sub>
+
+</td>
+
+<td align="center" width="16%">
+
+<h3>💀</h3>
+
+<b>PENTEST</b>
+
+<br><br>
+
+<sub>Security<br>Testing</sub>
+
+</td>
+
+<td align="center" width="16%">
+
+<h3>🔎</h3>
+
+<b>RESEARCH</b>
+
+<br><br>
+
+<sub>Vulnerability<br>Research</sub>
+
+</td>
+
+<td align="center" width="16%">
+
+<h3>🐍</h3>
+
+<b>AUTOMATION</b>
+
+<br><br>
+
+<sub>Security<br>Automation</sub>
 
 </td>
 
