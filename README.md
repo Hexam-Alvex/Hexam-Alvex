@@ -79,7 +79,7 @@
 
 <br><br>
 
-<sub>Security<br>Automation</sub>
+<h1>Security<br>Automation</h1>
 
 </td>
 
