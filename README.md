@@ -107,7 +107,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/SECURITY%20AUTOMATION-000000?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/SECURITY%20AUTOMATION-000000?0"/>
 
 </td>
 
